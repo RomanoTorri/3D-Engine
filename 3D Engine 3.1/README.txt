@@ -1,6 +1,3 @@
-# 3D Engine
- 3D Engine that can render different .obj files
-
 INSTRUCTIONS FOR USE:
 > Upon loading, select an object to render by clicking 'choose a file'.
 > Select one of the .obj files from 3D Engine 3.1\3D Engine 3.1\bin\Debug\Meshes
